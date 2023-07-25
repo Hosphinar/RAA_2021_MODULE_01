@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>RAA_2021_MODULE_01 - Command 1</Text>
+    <Description>Some description for RAA_2021_MODULE_01</Description>
+    <Assembly>RAA_2021_MODULE_01.dll</Assembly>
+    <FullClassName>RAA_2021_MODULE_01.Command1</FullClassName>
+    <ClientId>2bb68548-0992-412b-a154-83e8fc6cc8b3</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>RAA_2021_MODULE_01 - Command 2</Text>
+    <Description>Some description for RAA_2021_MODULE_01</Description>
+    <Assembly>RAA_2021_MODULE_01.dll</Assembly>
+    <FullClassName>RAA_2021_MODULE_01.Command2</FullClassName>
+    <ClientId>51e24f32-bb41-4bce-8dfe-94b9d370c9ab</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+  	<Text>RAA_2021_MODULE_01 - Module01Challenge</Text>
+  	<Description>Some description for RAA_2021_MODULE_01</Description>
+  	<Assembly>RAA_2021_MODULE_01.dll</Assembly>
+  	<FullClassName>RAA_2021_MODULE_01.Module01Challenge</FullClassName>
+  	<ClientId>EBC801B9-93FF-499F-9C87-AB101192FDA9</ClientId>
+  	<VendorId>com.YOUR COMPANY NAME</VendorId>
+  	<VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>RAA_2021_MODULE_01</Name>
+    <Assembly>RAA_2021_MODULE_01.dll</Assembly>
+    <FullClassName>RAA_2021_MODULE_01.App</FullClassName>
+    <ClientId>3583b65c-dbd4-43a6-a9e6-b0b7a7abcbd0</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
