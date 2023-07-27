@@ -1,0 +1,8 @@
+C:\Users\rbrown\source\repos\RAA_2021_MODULE_01\RAA_2021_MODULE_01\bin\Debug\RAA_2021_MODULE_01.dll
+C:\Users\rbrown\source\repos\RAA_2021_MODULE_01\RAA_2021_MODULE_01\bin\Debug\RAA_2021_MODULE_01.pdb
+C:\Users\rbrown\source\repos\RAA_2021_MODULE_01\RAA_2021_MODULE_01\obj\Debug\RAA_2021_MODULE_01.csproj.AssemblyReference.cache
+C:\Users\rbrown\source\repos\RAA_2021_MODULE_01\RAA_2021_MODULE_01\obj\Debug\RAA_2021_MODULE_01.Properties.Resources.resources
+C:\Users\rbrown\source\repos\RAA_2021_MODULE_01\RAA_2021_MODULE_01\obj\Debug\RAA_2021_MODULE_01.csproj.GenerateResource.cache
+C:\Users\rbrown\source\repos\RAA_2021_MODULE_01\RAA_2021_MODULE_01\obj\Debug\RAA_2021_MODULE_01.csproj.CoreCompileInputs.cache
+C:\Users\rbrown\source\repos\RAA_2021_MODULE_01\RAA_2021_MODULE_01\obj\Debug\RAA_2021_MODULE_01.dll
+C:\Users\rbrown\source\repos\RAA_2021_MODULE_01\RAA_2021_MODULE_01\obj\Debug\RAA_2021_MODULE_01.pdb
